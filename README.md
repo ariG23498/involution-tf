@@ -44,3 +44,5 @@ Below is the activation outputs from the involution kernels. We can observe that
       primaryClass={cs.CV}
 }
 ```
+
+Thanks to Duo Li (first author) for clarifying my doubts.
